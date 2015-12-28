@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/Specify type for reference in docstring" />
+    <ignoreAction name="Comments/Move Comment to Separate Line" />
+    <ignoreAction name="Comments/Replace with Block Comment" />
+    <ignoreAction name="Comments/Replace with End Of Line Comment" />
+  </component>
+</application>
