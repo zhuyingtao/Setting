@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse (Mac OS X) of Mine" parent="Eclipse (Mac OS X)">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
@@ -6,10 +9,13 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorSplitLine" />
+  <action id="FileChooser.GotoHome" />
   <action id="IpnbRunCellInplaceAction" />
   <action id="KotlinShellExecute" />
   <action id="NextProjectWindow" />
+  <action id="ShowIntentionActions" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
