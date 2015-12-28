@@ -88,9 +88,6 @@
             <id>J2ME issuesJava</id>
           </State>
           <State>
-            <id>JUnit issues</id>
-          </State>
-          <State>
             <id>JUnit issuesJava</id>
           </State>
           <State>
@@ -161,9 +158,6 @@
           </State>
           <State>
             <id>Serialization issuesJava</id>
-          </State>
-          <State>
-            <id>TestNG</id>
           </State>
           <State>
             <id>Threading issuesGroovy</id>
