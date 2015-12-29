@@ -12,9 +12,13 @@
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoHome" />
+  <action id="GotoFile" />
   <action id="IpnbRunCellInplaceAction" />
   <action id="KotlinShellExecute" />
   <action id="NextProjectWindow" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="ShowIntentionActions" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
