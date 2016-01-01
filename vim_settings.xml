@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ReplaceMethod/src/ReplaceMethodTwo/ReplaceMethodTwo.java" timestamp="1451630911214">
+        <mark key="'" line="17" column="24" />
+        <mark key="[" line="63" column="39" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/NextTime/.gitignore" timestamp="1451356313504">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="9" column="0" />
@@ -21,43 +27,68 @@
         <mark key="[" line="3" column="5" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="19" column="24" filename="$USER_HOME$/ReplaceMethod/src/ReplaceMethodTwo/ReplaceMethodTwo.java" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="-" type="4">
+        <text>E</text>
+      </register>
+      <register name="/" type="4">
+        <text>\\</text>
+      </register>
+      <register name="1" type="4">
+        <text>E</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aHNfZXJyX3BpZCoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aHNfZXJyX3BpZCoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Lm10ai50bXAvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">Lm10ai50bXAvCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">IyBNb2JpbGUgVG9vbHMgZm9yIEphdmEgKEoyTUUpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>s/\\//</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>\\</last-search>
+      <last-offset />
+      <last-pattern>\\</last-pattern>
+      <last-replace />
+      <last-substitute>\\</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>\\</entry>
+      </history-search>
+      <history-cmd>
+        <entry>/\\</entry>
+        <entry>s/\\//</entry>
+        <entry>s/\\/'/'</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>

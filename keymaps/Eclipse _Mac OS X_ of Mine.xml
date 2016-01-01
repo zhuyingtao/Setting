@@ -9,6 +9,9 @@
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoHome" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="GotoFile" />
   <action id="IpnbRunCellInplaceAction" />
   <action id="KotlinShellExecute" />
