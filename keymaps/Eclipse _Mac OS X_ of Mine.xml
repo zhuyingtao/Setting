@@ -23,7 +23,7 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
-  <action id="NewFile">
+  <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NextProjectWindow" />
