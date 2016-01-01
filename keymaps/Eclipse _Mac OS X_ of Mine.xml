@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse (Mac OS X) of Mine" parent="Eclipse (Mac OS X)">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
@@ -10,6 +13,7 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
