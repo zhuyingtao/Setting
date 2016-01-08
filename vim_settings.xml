@@ -17,14 +17,20 @@
       <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer26.java" timestamp="1451544636929">
         <mark key="[" line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer29.java" timestamp="1452235992925">
+        <mark key="[" line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer25.java" timestamp="1451533024852">
         <mark key="[" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/README.md" timestamp="1451542803273">
         <mark key="[" line="2" column="69" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer28.java" timestamp="1452234387128">
-        <mark key="[" line="3" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer28.java" timestamp="1452235923602">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LeetCode/.gitignore" timestamp="1451356548829">
         <mark key="[" line="3" column="5" />
@@ -35,40 +41,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="1" type="4">
+        <text>0</text>
+      </register>
+      <register name="2" type="4">
         <text>E</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHNfZXJyX3BpZCoK</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbAo=</text>
+        <text encoding="base64">aHNfZXJyX3BpZCoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Lm10ai50bXAvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBNb2JpbGUgVG9vbHMgZm9yIEphdmEgKEoyTUUpCg==</text>
+        <text encoding="base64">Lm10ai50bXAvCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/\\//</text>
