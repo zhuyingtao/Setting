@@ -40,16 +40,25 @@
       <file name="$USER_HOME$/IdeaProjects/LeetCode/.gitignore" timestamp="1451356548829">
         <mark key="[" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer31.java" timestamp="1452656704360">
-        <mark key="[" line="3" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Test.java" timestamp="1452668617468">
+        <mark key="[" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer31.java" timestamp="1452668576584">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="6" column="38" />
+        <mark key="^" line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="19" column="24" filename="$USER_HOME$/ReplaceMethod/src/ReplaceMethodTwo/ReplaceMethodTwo.java" />
+      <jump line="14" column="4" filename="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer31.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer31.java" />
+      <jump line="8" column="21" filename="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer31.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer31.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -57,32 +66,32 @@
       <register name="/" type="4">
         <text>\\</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="4">
         <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>E</text>
+        <text>0</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>0</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
+      <register name="6" type="4">
+        <text>0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aHNfZXJyX3BpZCoK</text>
+      <register name="7" type="4">
+        <text>E</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/\\//</text>
@@ -109,6 +118,13 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
