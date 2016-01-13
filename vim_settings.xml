@@ -45,8 +45,10 @@
       <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer25.java" timestamp="1451533024852">
         <mark key="[" line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Test.java" timestamp="1452679181550">
-        <mark key="[" line="4" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Test.java" timestamp="1452680298460">
+        <mark key="[" line="8" column="75" />
+        <mark key="]" line="8" column="75" />
+        <mark key="." line="8" column="75" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer32.java" timestamp="1452672983864">
         <mark key="[" line="15" column="0" />
@@ -64,19 +66,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7</text>
+        <text>样本1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7</text>
+        <text>样本1</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7</text>
+        <text>样本1</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7</text>
       </register>
       <register name="3" type="4">
         <text>0</text>
@@ -87,17 +89,17 @@
       <register name="5" type="4">
         <text>0</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
-      </register>
-      <register name="7" type="4">
+      <register name="6" type="4">
         <text>0</text>
       </register>
-      <register name="8" type="4">
-        <text>E</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>0</text>
+      </register>
+      <register name="9" type="4">
+        <text>E</text>
       </register>
       <register name=":" type="4">
         <text>s/\\//</text>
