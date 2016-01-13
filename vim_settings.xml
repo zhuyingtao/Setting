@@ -17,8 +17,10 @@
       <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer26.java" timestamp="1451544636929">
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer30.java" timestamp="1452247365360">
-        <mark key="[" line="3" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer30.java" timestamp="1452654196554">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer29.java" timestamp="1452247278797">
         <mark key="[" line="5" column="22" />
@@ -43,8 +45,8 @@
       <jump line="19" column="24" filename="$USER_HOME$/ReplaceMethod/src/ReplaceMethodTwo/ReplaceMethodTwo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -52,32 +54,32 @@
       <register name="/" type="4">
         <text>\\</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="2" type="4">
+        <text>0</text>
+      </register>
+      <register name="3" type="4">
         <text>E</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aHNfZXJyX3BpZCoK</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbAo=</text>
+        <text encoding="base64">aHNfZXJyX3BpZCoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Lm10ai50bXAvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/\\//</text>
