@@ -3,16 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/NextTime/.gitignore" timestamp="1451356313504">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/README.md" timestamp="1451542803273">
+        <mark key="[" line="2" column="69" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer28.java" timestamp="1452235923602">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/.gitignore" timestamp="1451356548829">
+        <mark key="[" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer31.java" timestamp="1452668576584">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="6" column="38" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/ReplaceMethod/src/ReplaceMethodTwo/ReplaceMethodTwo.java" timestamp="1451630911214">
         <mark key="'" line="17" column="24" />
         <mark key="[" line="63" column="39" />
         <mark key="]" line="15" column="25" />
         <mark key="." line="15" column="25" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/NextTime/.gitignore" timestamp="1451356313504">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer26.java" timestamp="1451544636929">
         <mark key="[" line="3" column="22" />
@@ -28,31 +45,15 @@
       <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer25.java" timestamp="1451533024852">
         <mark key="[" line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/README.md" timestamp="1451542803273">
-        <mark key="[" line="2" column="69" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer28.java" timestamp="1452235923602">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="36" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="36" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/LeetCode/.gitignore" timestamp="1451356548829">
-        <mark key="[" line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Test.java" timestamp="1452672552746">
-        <mark key="[" line="3" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Test.java" timestamp="1452679181550">
+        <mark key="[" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer32.java" timestamp="1452672983864">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/LeetCode/Nowcoder/src/Offer31.java" timestamp="1452668576584">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="6" column="38" />
-        <mark key="^" line="4" column="0" />
-      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1452679279445" />
     </filemarks>
     <jumps>
       <jump line="19" column="24" filename="$USER_HOME$/ReplaceMethod/src/ReplaceMethodTwo/ReplaceMethodTwo.java" />
