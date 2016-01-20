@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="16">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
-    <extensionMap>
-      <mapping pattern="Test.py" type="PLAIN_TEXT" />
-      <mapping pattern="tips" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
